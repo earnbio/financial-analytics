@@ -1,3 +1,5 @@
+
+
 # financial Analytics Pottfolio
 
 A collection of data science projects combining accounting principles and machine learning, built by Chunya - Data Analyst based in Melbourne.
@@ -6,4 +8,4 @@ A collection of data science projects combining accounting principles and machin
 
 
 ## Tools Used
-Python | SQL | Power BI | Streamlie |Scikit-learn | Pandas
+Python | SQL | Power BI | Streamlie |Scikit-learn | Pandas | Excel
